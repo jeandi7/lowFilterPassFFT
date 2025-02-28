@@ -36,6 +36,10 @@ The low-pass filter is greatly improved if a continuous attenuation function is 
 
 *multiplying the spectrum by a continous function in the frequency domain.*
 
+![example](filtered_audio_signal_Continuous.png)
+
+*filtered signal with low pass filter at 150 Hz*
+
 See Manuel de calcul numérique by Christian GUILPIN (edp sciences : 1999)
 extrait :
 chapter 12.1 : application à l'etude d'un filtre passe-bas (page 245)
