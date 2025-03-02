@@ -16,6 +16,9 @@ See Manuel de calcul numérique appliqué : Christian Guilpin (EDP Sciences)
 
 go run main.go
 
+The computation time takes about 30 seconds with an Apple M3.
+
+
 # filter on sinusoïd 
 
 ![example](filtered__sinusoid_signal.png)
